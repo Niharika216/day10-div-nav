@@ -1,0 +1,47 @@
+div {
+  width: 300px;
+  background-color: rgb(240, 240, 240);
+  display: inline-block;
+  overflow: auto;
+  border: 2px solid black;
+  margin-bottom: 20px;
+}
+.head {
+  text-align: center;
+}
+.personalDetails {
+  text-align: center;
+  background-color: gray;
+}
+.dhoniPara {
+  background-color: antiquewhite;
+  width: 1100px;
+  height: 620px;
+  border: 0px solid white;
+}
+.viratPara {
+  background-color: antiquewhite;
+  width: 1100px;
+  height: 600px;
+  border: 0px solid white;
+}
+.dhoniPic{
+  width: 300px;
+  background-color: yellow;
+}
+.viratPic{
+  width: 300px;
+  background-color: red;
+}
+nav{
+  background-color: antiquewhite;
+  width: 1100px;
+  height: 590px;
+  border: 0px solid white;
+  display: inline-block;
+  overflow: scroll;
+}
+.rohitPic{
+  background-color: blue;
+  width: 300px;
+}
